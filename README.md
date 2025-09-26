@@ -1,15 +1,9 @@
-You are absolutely right. A plain text file doesn't look professional. A good README uses Markdown formatting to be clear, organized, and easy to read.
-
-Here is a professionally formatted, complete README.md for your project. You can copy and paste this entire block of text directly into your README.md file.
-
-💰 CFO Copilot: An FP&A Agent
+# 💰 CFO Copilot: An FP&A Agent
 A Streamlit web application that acts as an AI-powered assistant for a CFO. This agent answers questions about monthly financial performance by analyzing local CSV files, consolidating results from multiple business entities, and generating charts to provide concise, board-ready answers.
+<img width="908" height="900" alt="image" src="https://github.com/user-attachments/assets/2d1c0037-053e-44ec-9127-2717d5a33b92" />
 
-This project was built to fulfill the requirements of the FP&A Agent Coding Assignment.
 
-Note: You can create a short screen recording of your app and convert it to a GIF to replace the placeholder link above.
-
-✨ Core Features
+# Core Features
 Natural Language Chat Interface: Ask complex financial questions in plain English.
 
 Automated Financial Metric Calculation: Instantly calculates key metrics without manual work.
@@ -20,7 +14,7 @@ Dynamic Chart Generation: Creates clean, professional Matplotlib charts to visua
 
 Simple & Robust Agent Design: Uses a rules-based planner to interpret user intent reliably and efficiently, without the need for external LLM APIs.
 
-📊 Metrics Supported
+# 📊 Metrics Supported
 The agent is designed to calculate and report on the following key financial metrics as per the assignment requirements:
 
 Revenue (USD): Actual vs. Budget performance and variance.
@@ -33,18 +27,8 @@ EBITDA (Proxy): Calculated as Revenue – COGS – Opex.
 
 Cash Runway: Calculated as Current Cash Balance ÷ Average 3-Month Net Burn.
 
-🛠️ Tech Stack
-Language: Python 3
 
-Web Framework: Streamlit
-
-Data Analysis: Pandas
-
-Charting: Matplotlib
-
-Testing: Pytest
-
-🚀 Getting Started
+# 🚀 Getting Started
 Follow these steps to get the application running on your local machine.
 
 Prerequisites
