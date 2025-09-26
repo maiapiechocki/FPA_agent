@@ -1,7 +1,7 @@
 # 💰 CFO Copilot: An FP&A Agent
 A Streamlit web application that acts as an AI-powered assistant for a CFO. This agent answers questions about monthly financial performance by analyzing local CSV files, consolidating results from multiple business entities, and generating charts to provide concise, board-ready answers.
-<img width="908" height="900" alt="image" src="https://github.com/user-attachments/assets/2d1c0037-053e-44ec-9127-2717d5a33b92" />
 
+<img width="908" height="900" alt="image" src="https://github.com/user-attachments/assets/2d1c0037-053e-44ec-9127-2717d5a33b92" />
 
 # Core Features
 Natural Language Chat Interface: Ask complex financial questions in plain English.
@@ -77,7 +77,7 @@ Bash
 streamlit run app.py
 The application will automatically open in your default web browser.
 
-❓ Example Questions
+# ❓ Example Questions
 Here are some sample questions the agent is designed to answer:
 
 What was June 2025 revenue vs budget in USD?
